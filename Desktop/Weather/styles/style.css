@@ -1,4 +1,4 @@
-/* reset style */
+/* css variables */
 :root{
     --big_main: #0a1f44;
     --tex_light: #fff;
@@ -9,6 +9,7 @@
     --orange: #ff8c00;
     --button_color:lightgreen;
 }
+/* End of css variables */
 
 * {
     margin: 0;
