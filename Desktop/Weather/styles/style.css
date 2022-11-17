@@ -7,6 +7,7 @@
     --red: #ff1e42;
     --darkred: #c3112d;
     --orange: #ff8c00;
+    --button_color:lightgreen;
 }
 
 * {
@@ -94,7 +95,7 @@ body {
     padding: 15px 20px;
     margin-left: 15px;
     border-radius: 5px;
-    background: lightgreen;
+    background: var(--button_color);
     color: black;
     transition: background 0.3s ease-in-out;
 }
